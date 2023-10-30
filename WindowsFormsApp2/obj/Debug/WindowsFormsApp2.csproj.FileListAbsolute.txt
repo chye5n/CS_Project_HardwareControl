@@ -1,0 +1,1085 @@
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230104_1\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230105\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230105_1 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230106\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230107\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230110\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230111\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230112\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230112_3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230113\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230116\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230117\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230117 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230118\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230118 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230119\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230119 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\zkdlz\Desktop\230125\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\zkdlz\Desktop\230126\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\zkdlz\Desktop\230126 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\zkdlz\Desktop\230126(클래스 생성)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\zkdlz\Desktop\새 폴더\230127\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230130\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230131\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230201\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230201 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230202\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230202 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230203\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230206\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230207 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230208\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\DirectShowLib.pdb
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC04\Desktop\새 폴더 (2)\230208 - 복사본\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
